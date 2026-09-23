@@ -1,0 +1,4 @@
+ID,Name,Phone,Age,Gender,BloodGroup,Allergies(separate with ;),Conditions(separate with ;)
+PID-10492,Honey,258852,34,Female,A+,Penicillin;NSAIDs,Mild Asthma
+PID-20841,Money,158825,58,Male,O-,Sulfa Drugs,Hypertension;Type 2 Diabetes
+PID-30915,Dad,2582588,22,Female,B+,None,None
